@@ -1,2 +1,4 @@
 # Hello-U
-sample ruby app for CICD practice
+simple ruby app for CICD practice.
+second line added with vim editor.
+
